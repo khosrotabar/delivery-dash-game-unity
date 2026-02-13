@@ -1,0 +1,8 @@
+/Users/mohammad35/Delivery Dash/.utmp/RelWithDebInfo/5u5x3nz1/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/mohammad35/Delivery Dash/.utmp/RelWithDebInfo/5u5x3nz1/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/mohammad35/Delivery Dash/.utmp/RelWithDebInfo/5u5x3nz1/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/mohammad35/Delivery Dash/.utmp/RelWithDebInfo/5u5x3nz1/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/mohammad35/Delivery Dash/.utmp/RelWithDebInfo/5u5x3nz1/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/mohammad35/Delivery Dash/.utmp/RelWithDebInfo/5u5x3nz1/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/mohammad35/Delivery Dash/.utmp/RelWithDebInfo/5u5x3nz1/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/mohammad35/Delivery Dash/.utmp/RelWithDebInfo/5u5x3nz1/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
